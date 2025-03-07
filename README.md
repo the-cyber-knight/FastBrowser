@@ -1,22 +1,22 @@
 # FastBrowser
 
-**FastBrowser** — это легкий и оптимизированный браузер, созданный для работы на слабых устройствах. Цель проекта — предоставить пользователям быстрый и минималистичный браузер с основными функциями, такими как поддержка вкладок, блокировка рекламы и интерфейс для удобной навигации. MyBrowser использует **Chromium Embedded Framework (CEF)** для рендеринга страниц, что позволяет достичь высокой производительности при меньшем потреблении ресурсов по сравнению с обычными браузерами, такими как Chrome или Firefox.
+**FastBrowser** is a lightweight and optimized browser designed for use on low-end devices. The goal of the project is to provide users with a fast, minimalist browser with essential features such as tab support, ad blocking, and a user-friendly interface for easy navigation. **FastBrowser** uses **Chromium Embedded Framework (CEF)** for rendering pages, which allows for high performance with lower resource consumption compared to standard browsers like Chrome or Firefox.
 
-## Основные особенности:
-- Легковесный и быстрый интерфейс.
-- Поддержка вкладок.
-- Блокировка рекламы через встроенный фильтр.
-- Минимальное потребление системных ресурсов.
-- Простой и понятный интерфейс для пользователей.
+## Key Features:
+- Lightweight and fast interface.
+- Tab support.
+- Built-in ad blocker.
+- Minimal system resource usage.
+- Simple and intuitive interface for users.
 
-## Стек технологий:
-- **Chromium Embedded Framework (CEF)** — для рендеринга веб-страниц.
-- **Qt/GTK** — для создания графического интерфейса пользователя.
-- **C++** — основной язык разработки.
-- **Adblock** — для блокировки рекламы.
+## Tech Stack:
+- **Chromium Embedded Framework (CEF)** — for rendering web pages.
+- **Qt/GTK** — for building the graphical user interface.
+- **C++** — the primary programming language.
+- **Adblock** — for ad blocking.
 
-## Цель проекта:
-Создать браузер, который может работать на слабых устройствах, но при этом обеспечивать комфортное использование интернета. Мы ориентируемся на минимализм и оптимизацию, чтобы дать пользователям быстрое решение для веб-серфинга.
+## Project Goal:
+To create a browser that runs well on low-end devices while still providing a comfortable web browsing experience. We focus on minimalism and optimization to give users a fast solution for web surfing.
 
-## Лицензия:
-Этот проект распространяется под лицензией [MIT](LICENSE).
+## License:
+This project is licensed under the [MIT](LICENSE) license.
